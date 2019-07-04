@@ -184,6 +184,5 @@
       <url>http://3.14.251.87:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
-  </distributionManagement>
 
 </project>
