@@ -176,8 +176,8 @@
   </build>
             <distributionManagement>
     <repository>
-      <id>releases</id>
-      <url>http://ec2-3-14-251-87.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/devopstraining</url>
+             <id>devopstraining</id>
+      <url>http://3.14.251.87:8081/nexus/content/repositories/devopstraining/</url>
     </repository>  
   </distributionManagement>
 
